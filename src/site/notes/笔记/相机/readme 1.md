@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"///readme-1/"}
 ---
 
-**其它位置：[[笔记/相机/readme 1\|readme 1]]，    [[远芯镜头\|远芯镜头]]**
+**其它位置：[[笔记/相机/readme\|笔记/相机/readme]]，    [[远芯镜头\|远芯镜头]]**
 
 ---
 
