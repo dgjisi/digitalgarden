@@ -16,8 +16,6 @@
 + 靶面尺寸：2/3”
 + 分辨率：2448 × 2048
 + 最大帧率：24.2 fps @2448 × 2048
-<div align="centrr"><img src="https://img.jisicn.ml/img/CS050-10.png" width="50%" height="50%"></img></div>
+<div align="centrr"><img src="https://img.jisicn.ml/img/CS050-10.png" width="100%" height="100%"></img></div>
 
-### 2022-04-06
 
-text now
