@@ -11,7 +11,7 @@
 #### Welcome to [东莞市集思光电科技有限公司 ](https://dgjisi.eu.org) ! 
 
 <audio id="audio" controls="" preload="none" autoplay="autoplay">
-      <source id="mp3" src="https://alist.zzggc01.ml/d/123pan/123pan/%E9%9F%B3%E4%B9%90/%E9%82%A3%E5%A5%B3%E5%AD%A9%E5%AF%B9%E6%88%91%E8%AF%B4%20(%E5%AE%8C%E6%95%B4%E7%89%88)%20.mp3">
+      <source id="mp3" src="https://alist.zzggc01.ml/d/123pan/123pan/%E9%9F%B3%E4%B9%90/%E9%82%A3%E5%A5%B3%E5%AD%A9%E5%AF%B9%E6%88%91%E8%AF%B4%20(%E5%AE%8C%E6%95%B4%E7%89%88)%20.mp3?sign=-MIb0ehYDHB3vaGR66RTOZ4qP2qvzpiH1RzyRvAu0nU=:0">
 </audio>
 
 ![](https://cloud.jisi.cf/api/v3/file/source/1266/hello%20world_02.png?sign=lmeulN56D3dF6o1CJS0hFy-7Ud1IlZ6EKHA2FsAwu1A%3D%3A0)
