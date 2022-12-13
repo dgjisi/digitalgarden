@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/camera/"}
 ---
 
-**其它位置：[[笔记/相机/readme\|笔记/相机/readme]]，    [[远芯镜头\|远芯镜头]]**
+---
+
+**其它主页 ：[[a.HOME\|a.HOME]]**
 
 ---
 
