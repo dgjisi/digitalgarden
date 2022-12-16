@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-    <img src="https://img.jisicn.ml/img/JS_YX_022.jpg" width="30%" height="30%"></img>
+    <img src="https://img.jisicn.ml/img/JS_YX_022.jpg" width="60%" height="60%"></img>
 </div>
 
 ### WT-5M022-200
@@ -39,8 +39,6 @@ MTF＞0.3@160lp/mm
 + 视野 24mm
 
 **价格 ：**
-
-  注：视野21mm的价格为1400元
 
 型号：WT-5M03-110V2
 倍率：0.3
