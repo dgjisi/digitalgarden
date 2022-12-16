@@ -16,24 +16,20 @@
 
 ![](https://cloud.jisi.cf/api/v3/file/source/1266/hello%20world_02.png?sign=lmeulN56D3dF6o1CJS0hFy-7Ud1IlZ6EKHA2FsAwu1A%3D%3A0)
 
-## 专业CCD视觉集成商
+### 专业CCD视觉集成商
 
-### 应用
+**应用**
 
-> 手机连接器 自动检测
->
-> 电脑周边连接器 自动检测
->
-> 视觉自动定位
->
-> 颜色自动识别
->
-> OCR识别
+- 手机连接器 自动检测
+-  电脑周边连接器 自动检测
+-  视觉自动定位
+- 颜色自动识别
+- OCR识别
 
 ---
 
 
-### 更新程序下载
+**更新程序下载**
 
 <left><a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a><left>
 
@@ -59,7 +55,7 @@
 <center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
 
 ----
-> #### 如何获取最新CCD程序
+**如何获取最新CCD程序**
 
 关注公众号，并发送**“CCD”**获取
 
