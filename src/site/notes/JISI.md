@@ -5,7 +5,7 @@
 
 ---
 
-**其它位置 ：[[Camera\|Camera]]，    [[Lens\|Lens]]，    [[影视APP\|影视APP]],    [[四点基准\|四点基准]]**
+**其它位置 ：[[Camera\|Camera]]，    [[Lens\|Lens]]，    [[影视APP\|影视APP]],    [[Baseline\|Baseline]]**
 
 ---
 #### Welcome to [东莞市集思光电科技有限公司 ](https://dgjisi.eu.org) ! 
