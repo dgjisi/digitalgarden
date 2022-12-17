@@ -9,6 +9,7 @@
 
 ---
 
+<div align="center"><img src="https://armtc.jisi.ga/i/2022/12/17/gr5f4v-1.jpg" width="100%" height="100%"></img></div>
 
 ---
 
@@ -23,3 +24,16 @@
 
 - 参数：扫描方向改为**前两点**，开启。
 
+---
+**如何获取最新CCD程序**
+
+关注公众号，并发送**“CCD”**获取
+
+<div align="center">
+    <img src="https://armtc.jisi.ga/i/2022/12/17/gk75pe-1.jpg" width="30%" height="30%"></img>
+</div>
+
+
+------
+
+<div align='center' ><font size='50'>END</font></div>
