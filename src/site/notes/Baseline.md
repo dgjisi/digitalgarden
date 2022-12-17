@@ -11,6 +11,7 @@
 
 **算法_四点基准**
 
+---
 
 <div align="center"><img src="https://armtc.jisi.ga/i/2022/12/17/gr5f4v-1.jpg" width="70%" height="70%"></img></div>
 
@@ -39,4 +40,4 @@
 
 ------
 
-<div align='center' ><font size='50'>END</font></div>
+<div align='center' ><font size='50'>End Thanks</font></div>
