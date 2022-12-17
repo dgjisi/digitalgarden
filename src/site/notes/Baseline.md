@@ -9,6 +9,9 @@
 
 ---
 
+**算法_四点基准**
+
+
 <div align="center"><img src="https://armtc.jisi.ga/i/2022/12/17/gr5f4v-1.jpg" width="100%" height="100%"></img></div>
 
 ---
