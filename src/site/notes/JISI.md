@@ -5,7 +5,7 @@
 
 ---
 
-**返回[[目录List\|目录List]]，    返回主页 [[JISI\|JISI]]**
+**返回主页 [[JISI\|JISI]]**
 
 ---
 #### Welcome to [东莞市集思光电科技有限公司 ](https://dgjisi.eu.org) ! 
