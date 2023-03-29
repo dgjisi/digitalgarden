@@ -6,7 +6,7 @@
 **HOME:** [[JISI\|JISI]]
 
 ---
-**工作：** [[Work\|Work]] , [[CCD-Update\|CCD-Update]]
+**工作：** [[Work\|Work]] , [[CCD-Update\|CCD-Update]] ，[[CAD\|CAD]]
 
 ---
 **算法:** 四点基准[[Baseline\|Baseline]]
