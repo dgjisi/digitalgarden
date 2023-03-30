@@ -6,7 +6,7 @@
 **HOME:** [[JISI\|JISI]]
 
 ---
-**工作：** [[Work\|Work]] , [[CCD-Update\|CCD-Update]] ，[[CAD\|CAD]]
+**工作：** [[Work\|Work]] , [[CCD-Update\|CCD-Update]] ，条型光源侧面打[[CAD1001\|CAD1001]] ，[[CAD1002\|CAD1002]]
 
 ---
 **算法:** 四点基准[[Baseline\|Baseline]]
