@@ -19,7 +19,7 @@
 意兆压铸 [[CAD-1002\|CAD-1002]] 
 
 ---
-**算法:** 四点基准[[Baseline\|Baseline]]
+**算法:** 四点基准 [[Baseline\|Baseline]]
 
 ---
 **配件:** [[Camera\|Camera]]，    [[Lens\|Lens]]
