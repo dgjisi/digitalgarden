@@ -6,23 +6,23 @@
 **HOME:** [[JISI\|JISI]]
 
 ---
-**工作：** [[Work\|Work]] , [[CCD-Update\|CCD-Update]] 
+**工作：**
+- [[Work\|Work]] 
+- [[CCD-Update\|CCD-Update]] 
 
 ---
 **方案：**
-**纬太自动化**
-条型光源侧面打 [[CAD-1001\|CAD-1001]] 
-接线端子7孔 [[CAD-1004\|CAD-1004]] 
-端子开口 [[WT-1001\|WT-1001]]
-
-**意兆电子**
-意兆压铸 [[CAD-1002\|CAD-1002]] 
+- [[Options\|Options]]
 
 ---
-**算法:** 四点基准 [[Baseline\|Baseline]]
+**算法:**  
+- 四点基准 [[Baseline\|Baseline]]
 
 ---
-**配件:** [[Camera\|Camera]]，    [[Lens\|Lens]]
+**配件:**
+- [[Camera\|Camera]]
+- [[Lens\|Lens]]
 
 ---
-**APP分享:** [[TV\|TV]]  
+**APP分享:** 
+- [[Soft\|Soft]]  
