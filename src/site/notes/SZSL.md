@@ -22,14 +22,14 @@
 
 2. 将相机数量加1，如现有2个画面增加到3个，将相机数量改为3；若现在3个需要加到4个，相机数量改为4
 
-<div align=""><img src="https://img.jisicn.ml/img/202304101855974.png" width="30%" height="50%"></img></div>
+<div align="center"><img src="https://img.jisicn.ml/img/202304101855974.png" width="30%" height="50%"></img></div>
 
 3. 再次点**用户**并输入密码“9900”，点登录后，右侧便会弹出隐藏的高级参数设定页面。
 如图，假设当前是2个画观，需增加3个，按顺序将第三个“CCD3相机类型”改成与上面的一致，此时后面的“相机端口”根据实际需要设定，如想调用原先CCD1的同步画面将端口改为0，若是调用CCD2的同步画面则将端口改为1。
 
 若是按图中设定CCD1与CCD2相机端口都是0，即表示第一个画面与第二个画面调用的是同一个相机；第三个画面为原先的第二个画面（调用另一个相机）
 
-<div align=""><img src="https://img.jisicn.ml/img/202304101909020.png" width="40%" height="50%"></img></div>
+<div align="center"><img src="https://img.jisicn.ml/img/202304101909020.png" width="40%" height="50%"></img></div>
 
 
 4. 自定义名称：相机备注从10开始为名称自定义，如将三个画面自定义为CCD1-1、CCD1-2、CCD2
@@ -38,7 +38,7 @@
 11改为CCD1-2
 12改为CCD2
 
-<div align=""><img src="https://img.jisicn.ml/img/202304101914552.png" width="30%" height="50%"></img></div>
+<div align="center"><img src="https://img.jisicn.ml/img/202304101914552.png" width="30%" height="50%"></img></div>
 
 
 5. 完成后重启CCD程序
@@ -49,6 +49,6 @@ CCD1-1指向画面1，CCD1-1相机页面“数据包”0
 CCD1-2指向画面2，CCD1-2相机页面“数据包”1
 CCD2指向画面3，CCD2相机页面“数据包”2
 
-<div align=""><img src="https://img.jisicn.ml/img/202304101920316.png" width="30%" height="50%"></img></div>
+<div align="center"><img src="https://img.jisicn.ml/img/202304101920316.png" width="30%" height="50%"></img></div>
 
 6. 设定完成
