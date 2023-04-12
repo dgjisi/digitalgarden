@@ -60,7 +60,7 @@
 ---
 **如何获取最新CCD程序**
 
-关注公众号，并发送**“CCD”**获取
+关注公众号，并发送 **“CCD”** 获取
 
 <div align="center">
     <img src="https://cloud.jisi.cf/api/v3/file/source/1124/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg?sign=vxeGqA0B2Y-Yger8pV5Rxvdh6ZeBWi4fVG1Wm98bXNo%3D%3A0" width="40%" height="40%"></img>
