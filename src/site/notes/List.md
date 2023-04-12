@@ -7,7 +7,7 @@
 
 ---
 **工作：**
-- [[Work\|Work]]              
+- [[Work-jisi\|Work-jisi]]              
 - [[CCD-Update\|CCD-Update]] 
 - [[SZSL\|SZSL]] 深圳盛凌增加页面并将原先拍两次的页面分开显示
 
