@@ -5,7 +5,7 @@
 
 ---
 
-**返回主页 [[JISI\|JISI]]**
+**[返回首页](https://jisicn.cf/jisi)**   **[目录](https://jisicn.cf/list)**
 
 ---
 #### Welcome to [东莞市集思光电科技有限公司 ](https://dgjisi.ml) ! 
