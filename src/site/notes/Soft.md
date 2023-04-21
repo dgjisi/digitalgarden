@@ -12,7 +12,7 @@
 ---
 **一、电视盒子**
 - [[TV\|TV]] 影视APP 安卓
-- 苹果手机推荐  https://dsxys.pro/app/   
+- 苹果手机推荐  [https://dsxys.pro/app/   ](https://dsxys.pro/app/   )
 
 ---
 **二、WINDOWS**
@@ -31,9 +31,10 @@ WIN扬声器控制
 
 最佳看小説APP
 - [阅读](https://jisi.lanzout.com/b012ti55g?password=dugv)  密码：dugv
+	- [书源汇总一键导入](https://legado.aoaostar.com/)
 
-    [书源汇总一键导入](https://legado.aoaostar.com/)
-
+```
 一程书源：https://www.gitlink.org.cn/api/yi-c/yd/raw?filepath=sy.json
 一程订阅：https://www.gitlink.org.cn/api/yi-c/yd/raw?filepath=dy.json
 喵公子订阅：https://dy.mgz6.cc 订阅里面有书源一键导入
+```
