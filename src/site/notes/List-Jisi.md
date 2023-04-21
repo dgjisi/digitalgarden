@@ -12,6 +12,7 @@
 - [[Work-Jisi\|Work-Jisi]]        
 - [[List\|List]]
 - [[CCD-Update\|CCD-Update]] 
+- [[Algorithm\|Algorithm]]
 - [[SZSL\|SZSL]] 深圳盛凌增加页面并将原先拍两次的页面分开显示
 
 ---
