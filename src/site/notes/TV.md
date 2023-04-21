@@ -6,7 +6,7 @@
 **返回主页 [[JISI\|JISI]]**
 
 ---
-年关将至，推荐大家一款好用的[影视APP](https://jisi.lanzout.com/iOaf50iskw6f)。
+年关将至，推荐大家一款好用的[影视APP ](https://jisi.lanzout.com/b012sqb4d)（密码：jisi）。
 
 **东莞市集思光电科技有限公司**
     **在此先提前祝大家新年快乐！**
