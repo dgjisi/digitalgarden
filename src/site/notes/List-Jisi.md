@@ -13,6 +13,8 @@
 - [[List\|List]]
 - [[CCD-Update\|CCD-Update]] 
 - [[Algorithm\|Algorithm]]
+
+**客户説明：**
 - [[SZSL\|SZSL]] 深圳盛凌增加页面并将原先拍两次的页面分开显示
 
 ---
