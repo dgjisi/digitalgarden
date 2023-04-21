@@ -25,12 +25,12 @@ WIN扬声器控制
 
 **三、音乐**
 - [lx-music 密码：glqw](https://www.lanzoui.com/b0bf2cfa/)   免费听音乐，支持电脑及安卓。PC端支持在线听与下载，手动端不支持下载。
-- [MusicFree](https://jisi.lanzout.com/b012thr7e)   密码:d61i 本软件为空壳，安装完毕后，在插件处添加以下json即可享受音乐，支持歌曲下载。`https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json`
+- [MusicFree 密码: jisi ](https://jisi.lanzout.com/b012thr7e)   本软件为空壳，安装完毕后，在插件处添加以下json即可享受音乐，支持歌曲下载。`https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json`
 
 **四、小説**
 
 最佳看小説APP
-- [阅读](https://jisi.lanzout.com/b012ti55g?password=dugv)  密码：dugv
+- [阅读 密码：jisi ](https://jisi.lanzout.com/b012ti55g?password=dugv)  
 	- [书源汇总一键导入](https://legado.aoaostar.com/)
 
 ```
