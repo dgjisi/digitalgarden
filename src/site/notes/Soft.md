@@ -11,7 +11,8 @@
 
 ---
 **一、电视盒子**
-- [[TV\|TV]] 影视APP
+- [[TV\|TV]] 影视APP 安卓
+- 苹果手机推荐  https://dsxys.pro/app/   
 
 ---
 **二、WINDOWS**
