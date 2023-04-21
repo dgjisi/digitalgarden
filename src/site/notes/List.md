@@ -32,7 +32,8 @@
 ![集思科技目录3-1.png](https://img.jisicn.ml/img/202304122220692.png)
 8-6
 
-![](https://img.jisicn.ml/img/202304122220692.png)
+![集思科技目录3-2.png](https://img.jisicn.ml/img/202304212341976.png)
+
 8-7
 
 ![集思科技目录1-2.png](https://img.jisicn.ml/img/202304122221293.png)
