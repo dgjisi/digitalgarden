@@ -53,3 +53,12 @@
 <div align="center"><img src="https://img.jisicn.ml/img/202304101920316.png" width="30%" height="50%"></img></div>
 
 6. 设定完成
+---
+---
+**其它注意**
+1、产品请尽量剧中调，避免靠单边，原因是你们要求端子要落在槽里，假如偏了，框也偏，容易抓到其它错误位置，如治具、塑胶（缺PIN时）
+<div align="center"><img src="https://img.jisicn.ml/img/202304251656816.png" width="50%" height="50%"></img></div>
+
+2、请及时清理治具上的杂物，避免误抓，严重的时候，刚好缺PIN，但是抓到杂物上造成错判。
+<div align="center"><img src="https://img.jisicn.ml/img/202304251657496.png" width="50%" height="50%"></img></div>
+
