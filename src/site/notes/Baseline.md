@@ -31,7 +31,7 @@
 ---
 **如何获取最新CCD程序**
 
-关注公众号，并发送**“CCD”**获取
+关注公众号，并发送 **“CCD”** 获取
 
 <div align="center">
     <img src="https://armtc.jisi.ga/i/2022/12/17/gk75pe-1.jpg" width="30%" height="30%"></img>
