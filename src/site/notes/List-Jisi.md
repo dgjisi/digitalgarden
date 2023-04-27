@@ -11,7 +11,7 @@
 **工作：**
 - [[Work-Jisi\|Work-Jisi]]        
 - [[List\|List]]
-- [[CCD-Update\|CCD-Update]] 
+- [[CCD/CCD-Update\|CCD-Update]] 
 - [[Algorithm\|Algorithm]]
 
 **客户説明：**
