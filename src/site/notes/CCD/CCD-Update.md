@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/ccd/ccd-update/"}
 ---
 
-[[索引/索引\|索引]]，    [[工作date\|工作date]]
 
 ---
 
@@ -36,8 +35,6 @@
 ```
 
 <div align="center"><img src="https://img.jisicn.ml/img/202304271454228.jpg" width="50%" height="50%"></img></div>
-
-![](https://img.jisicn.ml/img/202304271454228.jpg)
 
 ## 2023-04-25 周二
 `版本号: V18_230425_1213`
