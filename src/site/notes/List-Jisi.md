@@ -19,7 +19,7 @@
 
 ---
 **方案：**
-- [[Options\|Options]]
+- [[Option\|Option]]
 
 ---
 **算法:**  
