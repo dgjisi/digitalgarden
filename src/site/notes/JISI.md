@@ -8,7 +8,7 @@
 **[返回首页](https://jisicn.cf/jisi)**   **[目录](https://jisicn.cf/list)**
 
 ---
-#### Welcome to [东莞市集思光电科技有限公司 ](https://dgjisi.ml) ! 
+#### Welcome to [东莞市集思光电科技有限公司 ](https://www.jisicn.top) ! 
 
 <audio id="audio" controls="" preload="none" autoplay="autoplay">
       <source id="mp3" src="https://alist.zzggc01.ml/d/123pan/123pan/%E9%9F%B3%E4%B9%90/%E9%82%A3%E5%A5%B3%E5%AD%A9%E5%AF%B9%E6%88%91%E8%AF%B4%20(%E5%AE%8C%E6%95%B4%E7%89%88)%20.mp3?sign=-MIb0ehYDHB3vaGR66RTOZ4qP2qvzpiH1RzyRvAu0nU=:0">
@@ -49,11 +49,9 @@
 
 
 ---
-<center><a href="Https://www.dgjisi.ml" target="_blank">东莞集思光电科技有限公司</a></center>
+<center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
 
-<center><a href="Https://www.dgjisi.ml" target="_blank">https://www.dgjisi.ml</a></center>
-
-<center><a href="Https://www.dgjisi.eu.org" target="_blank">https://jisi.vercel.app</a></center>
+<center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center>
 
 <center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
 
