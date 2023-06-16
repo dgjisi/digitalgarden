@@ -5,30 +5,44 @@
 
 **返回主页 [[JISI\|JISI]]**
 
----
-年关将至，推荐大家一款好用的[影视APP ](https://jisi.lanzout.com/b012sqb4d)（密码：jisi）。
-
-**东莞市集思光电科技有限公司**
-    **在此先提前祝大家新年快乐！**
-
-![新春.jpg](https://armtc.jisi.ga/i/2022/12/16/p9y4cn-1.jpg)
-
-
-☺资源覆盖广，诸位目前如果还在用收费APP追剧，或还在纠结购买哪个平台的VIP会员，可以试试此APP，会有意外惊喜。
-☺无任何弹窗广告，无需登录，无需任何费用，放心使用。
-☺可以直装安卓手机，畅想观影。
-☺其它亮点，支持TV遥控操作，可以直接装到智能电视或电视盒子。
-
+重要説明：
+- 所有分享软件仅供学习参考使用，禁止用于商业目的。
+- 请不要以VIP/破解版为噱头进行宣传。
 
 ---
-**智能电视及电视盒安装：**
-- 可以先下载到U盘，再将U盘接到电视USB并安装
-- 可以直接在智能设备上开浏览器并打开下面下载地址，直接下载
-- 可以借助其它APP，如[当贝市场](https://jisi.lanzout.com/i2ohd0islm3i)，打开当贝市场，点到**管理**页面并找到**远程推送**，就可以直接在手机上下载APP远程推送到其它智能设备 (推荐)
+**影视APP**
+[下载地址： 密码:jisi](https://jisi.lanzout.com/b012v17ve)
+
+![image.png](https://img.jisicn.ml/img/202306162217551.png)
 
 ---
 
-![f7d699ac7b4d93d3cb3054f2664afb5.jpg](https://armtc.jisi.ga/i/2022/12/16/godzck-1.jpg)
+安装完APP后点右下角设置图标，如下图
 
-**[下载地址 密码:jisi](https://jisi.lanzout.com/b012sqb4d)**
+![image.png](https://img.jisicn.ml/img/202306162226998.png)
+
+---
+
+将链接复制进去
+
+接口一：http:/太硬.top/tv
+接口二：http://我不是.肥猫.love:63/接口禁止贩卖
+
+以上两个接口还不错，随便选一个就OK。
+
+![image.png](https://img.jisicn.ml/img/202306162225652.png)
+
+
+最后，视频源切换
+
+![image.png](https://img.jisicn.ml/img/202306162231603.png)
+
+**其它技巧：**
+- 常按海报进入源搜索
+- 播放页面，点视频标题也可以进入源搜索
+- 其它可以自行探索
+
+---
+
+**[下载地址： 密码:jisi](https://jisi.lanzout.com/b012v17ve)**
 
