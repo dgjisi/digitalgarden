@@ -32,4 +32,4 @@
 
 ---
 **APP分享:** 
-- [[Soft\|Soft]]  
+- [[Soft-list\|Soft-list]]  
