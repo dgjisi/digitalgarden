@@ -56,4 +56,4 @@
 
 ------
 
-<div align='center' ><font size='50'>END</font></div>
+<div align='center' ><font size='50'>END THANKS</font></div>
