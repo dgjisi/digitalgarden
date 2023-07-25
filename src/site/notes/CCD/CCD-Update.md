@@ -39,7 +39,7 @@
 此接口常用于解决相机断电重启后，直接打开用户程序异常，打开MVS后，再打开用户程序就正常的问题，直接引导用户添加此代码即可
 ```
 
-<div align="center"><img src="https://img.jisicn.ml/img/202304271454228.jpg" width="50%" height="50%"></img></div>
+<div align="center"><img src="https://tc.899900.xyz/img/202304271454228.jpg" width="50%" height="50%"></img></div>
 
 ## 2023-04-25 周二
 `版本号: V18_230425_1213`
@@ -50,7 +50,7 @@
 - 更新保存OK图片，代码里打开（D:/图片文件夹——勿删/OK/A1、A2、A3……），如果没有OK文件夹内没有A1、A2、A3……可以手动创建。
 ## 2023-03-22 周三  
 “计算两边共面度”的设定
-<div align="center"><img src="https://img.jisicn.ml/img/20230322125611.png" width="20%" height="30%"></img></div>
+<div align="center"><img src="https://tc.899900.xyz/img/20230322125611.png" width="20%" height="30%"></img></div>
 例：两个相机分别为CCD1、CCD2
 在CCD1数据里新增两个数据，“算法”为“共面度，标签为“最大值”与“最小值”以获取需要获取组的最大值与最小值数据。
 
