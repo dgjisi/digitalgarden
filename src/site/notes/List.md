@@ -14,29 +14,29 @@
 </audio>
 
 
-![集思科技目录1-1.png](https://img.jisicn.ml/img/jisi1-1.png)
+![集思科技目录1-1.png](https://tc.899900.xyz/img/jisi1-1.png)
 8-1
 
-![集思科技目录4-1.png](https://img.jisicn.ml/img/202304122217888.png)
+![集思科技目录4-1.png](https://tc.899900.xyz/img/202304122217888.png)
 8-2
 
-![集思科技目录4-2.png](https://img.jisicn.ml/img/202304122218741.png)
+![集思科技目录4-2.png](https://tc.899900.xyz/img/202304122218741.png)
 8-3
 
-![集思科技目录2-1.png](https://img.jisicn.ml/img/jisi1-2.png)
+![集思科技目录2-1.png](https://tc.899900.xyz/img/jisi1-2.png)
 8-4
 
-![集思科技目录2-2.png](https://img.jisicn.ml/img/202304122220646.png)
+![集思科技目录2-2.png](https://tc.899900.xyz/img/202304122220646.png)
 8-5
 
-![集思科技目录3-1.png](https://img.jisicn.ml/img/202304122220692.png)
+![集思科技目录3-1.png](https://tc.899900.xyz/img/202304122220692.png)
 8-6
 
-![集思科技目录3-2.png](https://img.jisicn.ml/img/202304212341976.png)
+![集思科技目录3-2.png](https://tc.899900.xyz/img/202304212341976.png)
 
 8-7
 
-![集思科技目录1-2.png](https://img.jisicn.ml/img/202304122221293.png)
+![集思科技目录1-2.png](https://tc.899900.xyz/img/202304122221293.png)
 8-8
 
 ---
