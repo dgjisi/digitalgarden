@@ -10,7 +10,7 @@
 ---
 
 <div align="center">
-    <img src="https://img.jisicn.ml/img/JS_YX_022.jpg" width="60%" height="60%"></img>
+    <img src="https://tc.899900.xyz/img/JS_YX_022.jpg" width="60%" height="60%"></img>
 </div>
 
 ### WT-5M022-200
@@ -31,7 +31,7 @@ MTF＞0.3@160lp/mm
 接 口：C
 
 <div align="center">
-    <img src="https://img.jisicn.ml/img/JS_YX_022200.png" width="30%" height="30%"></img>
+    <img src="https://tc.899900.xyz/img/JS_YX_022200.png" width="30%" height="30%"></img>
 </div>
 
 ### WT-5M03-110V2
@@ -52,5 +52,5 @@ MTF ＞ 0.3@130lp/mm
 工作距离：108mm
 
 <div align="center">
-    <img src="https://img.jisicn.ml/img/JS_YX_03110.png" width="30%" height="30%"></img>
+    <img src="https://tc.899900.xyz/img/JS_YX_03110.png" width="30%" height="30%"></img>
 </div>
