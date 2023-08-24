@@ -13,7 +13,7 @@
 
 ---
 
-<div align="center"><img src="https://armtc.jisi.ga/i/2022/12/17/gr5f4v-1.jpg" width="70%" height="70%"></img></div>
+<div align="center"><img src="https://armtc.899900.xyz/i/2022/12/17/gr5f4v-1.jpg" width="70%" height="70%"></img></div>
 
 ---
 
@@ -28,6 +28,14 @@
 
 - 参数：扫描方向改为**前两点**，开启。
 ---
+
+<center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
+
+<center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center>
+
+<center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
+
+---
 **如何获取最新CCD程序**
 
 关注公众号，并发送 **“CCD”** 获取
@@ -39,4 +47,4 @@
 
 ------
 
-<div align='center' ><font size='50'>END</font></div>
+<div align='center' ><font size='50'> End Thanks</font></div>
