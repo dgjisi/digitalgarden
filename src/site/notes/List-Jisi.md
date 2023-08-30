@@ -23,7 +23,7 @@
 
 ---
 **其它：**
-- [[other/CCDPrec\|CCDPrec]]
+- [[other/CCDPrec\|CCDPrec]] 测尺寸时黑白精度为什么高于彩色相机
 
 ---
 **算法:**  
