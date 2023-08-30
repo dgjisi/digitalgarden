@@ -22,6 +22,10 @@
 - [[Option\|Option]]
 
 ---
+**其它：**
+- [[other/CCDPrec\|CCDPrec]]
+
+---
 **算法:**  
 - 四点基准 [[Baseline\|Baseline]]
 
