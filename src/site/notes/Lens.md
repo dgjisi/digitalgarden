@@ -34,6 +34,9 @@ MTF＞0.3@160lp/mm
     <img src="https://tc.899900.xyz/img/JS_YX_022200.png" width="30%" height="30%"></img>
 </div>
 
+
+---
+
 ### WT-5M03-110V2
 + 工作距离 108mm
 + 视野 24mm
@@ -54,3 +57,15 @@ MTF ＞ 0.3@130lp/mm
 <div align="center">
     <img src="https://tc.899900.xyz/img/JS_YX_03110.png" width="30%" height="30%"></img>
 </div>
+
+---
+## DTCM118-39
+
+![image.png](https://tc.899900.xyz/img/202309161314654.png)
+
+---
+
+![image.png](https://tc.899900.xyz/img/202309161324794.png)
+
+---
+
