@@ -68,4 +68,19 @@ MTF ＞ 0.3@130lp/mm
 ![image.png](https://tc.899900.xyz/img/202309161324794.png)
 
 ---
+---
 
+<div align='center' ><font size='6'><b>CR远心</b></font></div>
+
+600万相机视野 1/1.8  
+33.522.1 
+1300
+![image.png](https://tc.899900.xyz/img/202311291505830.png)
+
+---
+
+2000万相机 1英寸
+62视野
+1800
+
+![image.png](https://tc.899900.xyz/img/202311291508397.png)
