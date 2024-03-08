@@ -57,3 +57,4 @@
 
 **其它**
 - TYPEC [[Options/HFD-1000\|HFD-1000]]
+- 泰元达机械 旋转检测 [[Options/TYD-1000\|TYD-1000]]
