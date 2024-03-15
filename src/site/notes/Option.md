@@ -62,3 +62,4 @@
 **其它**
 - TYPEC [[Options/HFD-1000\|HFD-1000]]
 - 泰元达机械 旋转检测 [[Options/TYD-1000\|TYD-1000]]
+- 蓝芯盈精密机械_王立峰 [[Options/LXY-1001\|LXY-1001]]
