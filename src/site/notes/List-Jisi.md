@@ -9,10 +9,10 @@
 
 ---
 **工作：**
-- [[Work-Jisi\|Work-Jisi]]        
-- [[List\|List]]
-- [[CCD/CCD-Update\|CCD-Update]]----- [[CCD/VISION\|VISION]]-----[[CCD/LON\|LON]]
-- [[Algorithm\|Algorithm]]-----公差设定 [[CCD/gongcha\|gongcha]]-----[[other/modbus-tyd\|modbus-tyd]]
+- **[[Work-Jisi\|Work-Jisi]]**        
+- **[[List\|List]]**
+- **[[CCD/CCD-Update\|CCD-Update]]----- [[CCD/VISION\|VISION]]-----[[CCD/LON\|LON]]**
+- **[[Algorithm\|Algorithm]]-----公差设定 [[CCD/gongcha\|gongcha]]-----泰元达 [[other/modbus-tyd\|modbus-tyd]]-----自由协议 [[other/free-agreement\|free-agreement]]**
 
 **客户説明：**
 - [[other/SZSL\|SZSL]] 深圳盛凌增加页面并将原先拍两次的页面分开显示
