@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/other/ccd-prec/"}
+{"dg-publish":true,"permalink":"/other/CCDPrec/"}
 ---
 
 
