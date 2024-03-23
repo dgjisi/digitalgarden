@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccd/gongcha/"}
+{"dg-publish":true,"permalink":"/CCD/gongcha/"}
 ---
 
 
