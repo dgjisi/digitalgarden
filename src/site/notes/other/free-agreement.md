@@ -3,15 +3,15 @@
 ---
 
 
-# Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
+## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 
-![Rsa7uSlt_0602-04.jpg](https://tc.899900.xyz/img/202303301656475.jpg)
+<div align="center"><img src="https://tc.899900.xyz/img/202303301656475.jpg" width="100%" height="50%"></img></div>
 
 ---
 
-# 开瓶器__自由协议
+## 开瓶器__自由协议
 
-## 一、启动CCD
+### 一、启动CCD
 
 - 在参数页面信号切换选择 **“自由协议”**
 - 启动数据为 **01 02 03**
@@ -22,11 +22,11 @@
 
 ![ea76421923c0ebf6b5e738972f60a5c.jpg](https://tc.899900.xyz/img/202403201603916.jpg)
 
-## 二、写数据
+### 二、写数据
 
 - 格式为 **AA%sBB** , AA为帧头，BB为帧尾，%s为数据
 
-## 二、模版设定
+### 二、模版设定
 
 - 一、ROI算法
 	- 定位，抓圆心定位
@@ -57,7 +57,7 @@
 
 <div STYLE="page-break-after: always;"></div>
 
-![水印产品图.JPG](https://tc.899900.xyz/img/202304122151817.JPG)
+<div align="center"><img src="https://tc.899900.xyz/img/202304122151817.JPG" width="100%" height="50%"></img></div>
 
 
 ---
