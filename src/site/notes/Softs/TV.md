@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/softs/tv/"}
+{"dg-publish":true,"permalink":"/Softs/TV/"}
 ---
 
 
