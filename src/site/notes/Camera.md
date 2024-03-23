@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/camera/"}
+{"dg-publish":true,"permalink":"/Camera/"}
 ---
 
 
