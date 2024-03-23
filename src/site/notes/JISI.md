@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/jisi/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/JISI/","tags":["gardenEntry"]}
 ---
 
 
