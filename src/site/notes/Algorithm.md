@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/algorithm/"}
+{"dg-publish":true,"permalink":"/Algorithm/"}
 ---
 
 
