@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccd/ccd-update/"}
+{"dg-publish":true,"permalink":"/CCD/CCD-Update/","tags":["CCD  程序"]}
 ---
 
 [[索引/索引\|索引]]，    [[工作date\|工作date]]
