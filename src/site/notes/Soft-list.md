@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/soft-list/"}
+{"dg-publish":true,"permalink":"/Soft-list/"}
 ---
 
 
@@ -8,6 +8,7 @@
 重要説明：
 - 所有分享软件仅供学习参考使用，禁止用于商业目的。
 - 请不要以VIP/破解版为噱头进行宣传。
+- 请下载后24小时内删除。
 
 ---
 **一、电视盒子**
