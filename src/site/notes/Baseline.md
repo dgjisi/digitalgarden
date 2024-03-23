@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/baseline/"}
+{"dg-publish":true,"permalink":"/Baseline/"}
 ---
 
 
