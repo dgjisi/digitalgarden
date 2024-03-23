@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccd/vision/"}
+{"dg-publish":true,"permalink":"/CCD/VISION/"}
 ---
 
 
