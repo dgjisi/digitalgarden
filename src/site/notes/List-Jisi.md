@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/list-jisi/"}
+{"dg-publish":true,"permalink":"/List-Jisi/"}
 ---
 
 
