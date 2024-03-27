@@ -52,7 +52,7 @@
 
 
 <div align="center">
-    <img src="https://tc.899900.xyz/img/JS_YX_022.jpg" width="80%" height="60%"></img>
+    <img src="https://tc.899900.xyz/img/JS_YX_022.jpg" width="100%" height="60%"></img>
 </div>
 
 <div STYLE="page-break-after: always;"></div>
