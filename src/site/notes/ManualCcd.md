@@ -5,7 +5,7 @@
 
 ---
 
-**返回主页 [[JISI\|JISI]]**
+## 返回主页 [[JISI\|JISI]]
 
 ---
 
@@ -25,6 +25,14 @@
 4. 0.7--4.5表示物镜，取当前所在刻度值
 
 以上倍数仅供参考！
+
+---
+
+### 立式支架
+<div align="center"><img src="https://tc.899900.xyz/img/202403271432768.jpg" width="70%" height="50%"></img></div>
+
+### 卧式支架
+<div align="center"><img src="https://tc.899900.xyz/img/202403271432502.jpg" width="70%" height="50%"></img></div>
 
 
 ---
