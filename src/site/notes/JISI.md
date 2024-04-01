@@ -5,10 +5,10 @@
 
 ---
 
-**[返回首页](https://ccd-cf.jisicn.top/JISI)**   **[目录](https://ccd-cf.jisicn.top/List)**
+ **[目录](list)**
 
 ---
-#### Welcome to [东莞市集思光电科技有限公司 ](https://www.jisicn.top) ! 
+### Welcome to [东莞市集思光电科技有限公司 ](https://www.jisicn.top) ! 
 
 <audio id="audio" controls="" preload="none" autoplay="autoplay">
       <source id="mp3" src="">
