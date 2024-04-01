@@ -5,7 +5,7 @@
 
 ---
 
- **[目录](list)**
+ **[目录](List)**
 
 ---
 ### Welcome to [东莞市集思光电科技有限公司 ](https://www.jisicn.top) ! 
