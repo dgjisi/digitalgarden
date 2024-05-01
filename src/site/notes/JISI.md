@@ -30,7 +30,7 @@
 
 ---
 
-![](https://cloud.jisi.cf/api/v3/file/source/1266/hello%20world_02.png?sign=lmeulN56D3dF6o1CJS0hFy-7Ud1IlZ6EKHA2FsAwu1A%3D%3A0)
+![hello world_02](https://tc.899900.xyz/img/202405012134386.png)
 
 **更新程序下载**
 
@@ -40,9 +40,8 @@
 
 ---
 
-
 <div align="center">
-    <img src="https://cloud.jisi.cf/api/v3/file/source/1152/0602-04.jpg?sign=CJ3N202laSaNOnwUKyra9zbknIn5Vq4lQ2I2iTRO34M%3D%3A0"></img>
+    <img src="https://tc.899900.xyz/img/202405012135074.jpg"></img>
 </div>
 
 
@@ -60,8 +59,9 @@
 
 关注公众号，并发送 **“CCD”** 获取
 
+
 <div align="center">
-    <img src="https://cloud.jisi.cf/api/v3/file/source/1124/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg?sign=vxeGqA0B2Y-Yger8pV5Rxvdh6ZeBWi4fVG1Wm98bXNo%3D%3A0" width="40%" height="40%"></img>
+    <img src="https://tc.899900.xyz/img/202405012133208.jpg" width="40%" height="40%"></img>
 </div>
 
 
