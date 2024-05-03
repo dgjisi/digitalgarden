@@ -14,7 +14,7 @@
       <source id="mp3" src="">
 </audio>
 
-![水印产品图.JPG](https://tc.899900.xyz/img/202304122151817.JPG)
+![98e92999_9133505.jpeg](https://tc.899900.xyz/img/202405031228351.jpeg)
 
 ---
 
@@ -30,13 +30,14 @@
 
 ---
 
-![hello world_02](https://tc.899900.xyz/img/202405012134386.png)
+![水印产品图.JPG](https://tc.899900.xyz/img/202304122151817.JPG)
+
+<!-- ![hello world_02](https://tc.899900.xyz/img/202405012134386.png) -->
 
 **更新程序下载**
 
-<left><a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a><left>
-
-<left><a href="https://jisi.lanzout.com/b0114318j" target="_blank">备用地址《密码:jisi》</a><left>
+<a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a>
+<a href="https://jisi.lanzout.com/b0114318j" target="_blank">备用地址《密码:jisi》</a>
 
 ---
 
@@ -49,14 +50,11 @@
 
 ---
 <center><a href="https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
-
 <center><a href="https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center>
-
 <center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
 
 ---
 **如何获取最新CCD程序**
-
 关注公众号，并发送 **“CCD”** 获取
 
 
@@ -67,4 +65,4 @@
 
 ------
 
-<div align='center' ><font size='50'>END</font></div>
+<div align='center' ><font size='50'>END THANKS</font></div>
