@@ -35,9 +35,9 @@
 <!-- ![hello world_02](https://tc.899900.xyz/img/202405012134386.png) -->
 
 **更新程序下载**
+<p align="left"><a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a></p>
+<p align="left"><a href="https://jisi.lanzout.com/b0114318j" target="_blank">备用地址《密码:jisi》</a></p>
 
-<a href="https://cloud.jisi.cf/s/wZfL" target="_blank">下载地址1《密码:jisi》</a>
-<a href="https://jisi.lanzout.com/b0114318j" target="_blank">备用地址《密码:jisi》</a>
 
 ---
 
