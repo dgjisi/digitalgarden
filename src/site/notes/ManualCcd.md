@@ -28,10 +28,10 @@
 
 ---
 
-### 立式支架
+### 卧式支架
 <div align="center"><img src="https://tc.899900.xyz/img/202403271432768.jpg" width="70%" height="50%"></img></div>
 
-### 卧式支架
+### 立式支架
 <div align="center"><img src="https://tc.899900.xyz/img/202403271432502.jpg" width="70%" height="50%"></img></div>
 
 
