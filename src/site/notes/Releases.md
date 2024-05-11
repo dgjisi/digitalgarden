@@ -12,16 +12,14 @@
 
 ##### 最新安装包：
 	新装电脑下载整个文件包
-[vision_1.0.0.79](https://jisi.lanzout.com/impFp1yfwide)
+<a href="https://jisi.lanzout.com/impFp1yfwide">vision_1.0.0.79</a>
 
 ##### 最新程序：
 	更新程序，下载更新文件
-[vision_更新文件_1.0.0.79](https://jisi.lanzout.com/ij1QT1yfwjtg)
+<a href="https://jisi.lanzout.com/ij1QT1yfwjtg">vision_更新文件_1.0.0.79</a>
 
 ##### 加密文件：
 [下载]()
-
-
 
 ---
 
