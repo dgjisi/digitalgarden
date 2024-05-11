@@ -1,0 +1,34 @@
+---
+{"dg-publish":true,"permalink":"/Releases/"}
+---
+
+
+### Welcome to[东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
+
+![98e92999_9133505.jpeg](https://tc.899900.xyz/img/202405031228351.jpeg)
+
+---
+### 24版VISION 最新程序发布地址
+
+##### 最新安装包：
+	新装电脑下载整个文件包
+[下载](https://jisi.lanzout.com/iyKLM1ye8smd)
+
+##### 最新程序：
+	更新程序，下载更新文件
+[下载](https://jisi.lanzout.com/iNZ2K1ye9i7e)
+
+##### 加密文件：
+[下载]()
+
+
+
+---
+
+<center><a href="Https://www.jisicn.top" target="_blank">东莞集思光电科技有限公司</a></center>
+<center><a href="Https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center>
+<center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
+
+---
+
+<div align='center' ><font size='50'><b>End Thanks</b></font></div>
