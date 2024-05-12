@@ -20,6 +20,9 @@
 远程工具
 - [向日葵远程](https://sunlogin.oray.com/download?categ=personal)
 - [Todesk远程](https://www.todesk.com/download.html)
+- [LockHunter 文件锁解锁器 ](https://lockhunter.com/)
+- [电脑同步备份软件](https://www.2brightsparks.com/download-syncbackfree.html)
+- [K-Lite 解决缩略图问题](https://codecguide.com/download_kl.htm)
 
 WIN扬声器控制
 - [EarTrumpe 音频混合器](https://eartrumpet.app/)可以为不同应用设置不同声音大小
