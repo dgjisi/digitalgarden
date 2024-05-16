@@ -11,19 +11,20 @@
 ### 24版VISION 最新程序发布地址
 
 ##### 最新安装包：
-	新装电脑下载整个文件包
-[vision_1.0.0.82](https://jisi.lanzout.com/itk4d1yvghoj)
 
-##### 最新程序：
-	更新程序，下载更新文件
-[vision_更新文件_1.0.0.82](https://jisi.lanzout.com/ifRpi1yvgi5g)
+	新装电脑下载整个文件包 | 更新程序，下载更新文件
 
+[下载 密码:jisi](https://jisi.lanzout.com/b0izjdtuf)
+ 
 ##### 加密文件：
 
 ---
 
 ### 更新日志
 2024-05-16
+
+	vision_1.0.0.84
+
 - 优化校验之后，刷新单个数据
 - 更新定位完成提示
 
