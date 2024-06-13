@@ -23,6 +23,7 @@
 - [LockHunter 文件锁解锁器 ](https://lockhunter.com/)
 - [电脑同步备份软件](https://www.2brightsparks.com/download-syncbackfree.html)
 - [K-Lite 解决缩略图问题](https://codecguide.com/download_kl.htm)
+- [窗口管理工具 WindowTop 5.22.5 绿色版](<https://jisi.lanzout.com/b010p4azg 密码:gtmd>)
 
 WIN扬声器控制
 - [EarTrumpe 音频混合器](https://eartrumpet.app/)可以为不同应用设置不同声音大小
