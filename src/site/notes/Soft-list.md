@@ -44,3 +44,21 @@ WIN扬声器控制
 
 喵公子订阅：https://dy.mgz6.cc 订阅里面有书源一键导入
 ```
+
+**五、CCD相关下载**
+
+浏览器： 
+- [FireFox 64位](https://jisi.lanzout.com/igs7R15jvxpa)
+- [FireFox 32位](https://jisi.lanzout.com/i6apJ15jvzli)
+
+下载工具：
+- [NDM](https://jisi.lanzout.com/iownH21nrfze)
+
+ 远程连接：
+ - [Rustdest](https://jisi.lanzout.com/iqeeH1u9j9va)
+- [向日葵远程](https://sunlogin.oray.com/download?categ=personal)
+- [Todesk远程](https://www.todesk.com/download.html)
+
+相机驱动汇总：
+- [下载](https://yuchi.eu.org:9747/tools/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/%E9%A9%B1%E5%8A%A8/%E7%9B%B8%E6%9C%BA%E9%A9%B1%E5%8A%A8%E6%B1%87%E6%80%BB.rar)
+
