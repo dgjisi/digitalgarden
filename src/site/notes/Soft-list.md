@@ -61,4 +61,5 @@ WIN扬声器控制
 
 相机驱动汇总：
 - [下载](https://yuchi.eu.org:9747/tools/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6/%E9%A9%B1%E5%8A%A8/%E7%9B%B8%E6%9C%BA%E9%A9%B1%E5%8A%A8%E6%B1%87%E6%80%BB.rar)
+- [Mindvision SDK for windows V2.1.10.185](https://www.mindvision.com.cn/wp-content/uploads/2024/01/MindVision-Camera-Platform-Setup2.1.10.185240328.exe)
 
