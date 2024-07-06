@@ -15,6 +15,7 @@
 - **[[Algorithm\|Algorithm]]-----公差设定 [[CCD/gongcha\|gongcha]]-----泰元达 [[other/modbus-tyd\|modbus-tyd]]-----纬太开瓶器_自由协议 [[other/free-agreement\|free-agreement]]-----[[Reinstall\|Reinstall]]**
 - 程序发布 [[Releases\|Releases]]
 - CCD相关下载 [[downall\|downall]]
+- WIN7激活 [[other/win7激活\|win7激活]]
 
 **客户説明：**
 - [[other/SZSL\|SZSL]] 深圳盛凌增加页面并将原先拍两次的页面分开显示
