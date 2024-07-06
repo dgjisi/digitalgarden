@@ -32,8 +32,17 @@
 
 <div align="center"><img src="https://tc.899900.xyz/img/202304122151817.JPG" width="100%" height="50%"></img></div>
 
+---
+
 ## 文件下载：
 [下载为PDF]()          [激活工具](https://jisi.lanzout.com/iJZUd23nk9ra)
+
+---
+
+### **如何获取更多CCD资讯**
+关注公众号，并发送 **“CCD”** 
+
+<div align="center"><img src="https://tc.899900.xyz/img/202405012133208.jpg" width="40%" height="40%"></img></div>
 
 ---
 
@@ -45,4 +54,4 @@
 
 <div align='center' ><font size='50'><b>End   Thanks</b></font></div>
 
-<div align='center'><font size='3'><b>联系人：周生  18029199900</b></font></div>
+<div align='center'><font size='3'><b>联系人：周生  18029199900 「dgjisi@foxmail.com」</b></font></div>
