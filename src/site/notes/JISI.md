@@ -58,9 +58,7 @@
 关注公众号，并发送 **“CCD”** 获取
 
 
-<div align="center">
-    <img src="https://tc.899900.xyz/img/202405012133208.jpg" width="40%" height="40%"></img>
-</div>
+<div align="center"><img src="https://tc.899900.xyz/img/202405012133208.jpg" width="40%" height="40%"></img></div>
 
 
 ------
