@@ -9,7 +9,9 @@
 
 ## 关于WIN7电脑激活
 <div STYLE="page-break-after: always;"></div>
+
 一、先下载[激活工具](https://jisi.lanzout.com/iJZUd23nk9ra)
+
 ![image.png](https://tc.899900.xyz/img/202407061023574.png)
 
 二、下载后解压
