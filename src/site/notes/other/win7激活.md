@@ -15,13 +15,16 @@
 ![image.png](https://tc.899900.xyz/img/202407061023574.png)
 
 二、下载后解压
+
 ![image.png](https://tc.899900.xyz/img/202407061024002.png)
 <!-- 分割 --><div STYLE="page-break-after: always;"></div>
 
 三、鼠标右键激活==以管理员身份运行==
+
 ![image.png](https://tc.899900.xyz/img/202407061025384.png)
 
 四、弹出窗口选择1并按键盘回车
+
 ![image.png](https://tc.899900.xyz/img/202407061027990.png)
 
 
