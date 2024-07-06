@@ -41,8 +41,8 @@
 <center><a href="Https://www.jisicn.top" target="_blank">https://www.jisicn.top</a></center>
 <center><a href="Https://www.dgjisi.eu.org" target="_blank">https://www.dgjisi.eu.org</a></center>
 
-<div align='center'><font size='3'><b>联系人：周生  18029199900</b></font></div>
-
 ---
 
 <div align='center' ><font size='50'><b>End   Thanks</b></font></div>
+
+<div align='center'><font size='3'><b>联系人：周生  18029199900</b></font></div>
