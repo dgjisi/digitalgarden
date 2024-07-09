@@ -48,6 +48,13 @@
 ##### 成功读取数据
 ![image.png](https://tc.899900.xyz/img/202407091420292.png)
 
+#### 六、最后点导入「将EXEL数据导入CCD，完成对应」
+![image.png](https://tc.899900.xyz/img/202407091425041.png)
+
+##### 导入后，通过切换数据并查看==DistanceX==已经看到数据已经导入成功
+![PixPin_2024-07-09_14-30-59.gif](https://tc.899900.xyz/img/202407091431523.gif)
+
+---
 
 <!-- 分割 --><div STYLE="page-break-after: always;"></div>
 
@@ -56,7 +63,7 @@
 ---
 
 ## 文件下载：
-[下载为PDF]()          [激活工具](https://jisi.lanzout.com/iJZUd23nk9ra)
+[下载为PDF]() 
 
 ---
 
