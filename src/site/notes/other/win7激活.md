@@ -42,7 +42,7 @@
 ### **如何获取更多CCD资讯**
 关注公众号，并发送 **“CCD”** 
 
-<div align="center"><img src="https://tc.899900.xyz/img/202405012133208.jpg" width="40%" height="40%"></img></div>
+<div align="center"><img src="https://tc.899900.xyz/img/202405012133208.jpg" width="30%" height="40%"></img></div>
 
 ---
 
