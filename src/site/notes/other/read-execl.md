@@ -5,7 +5,7 @@
 
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 
-![Rsa7uSlt_0602-04.jpg](https://tc.899900.xyz/img/202303301656475.jpg)
+<div align="center"><img src="https://tc.899900.xyz/img/202303301656475.jpg" width="100%" height="50%"></img></div>
 
 ## 导入外部EXCEL数据到CCD
 <div STYLE="page-break-after: always;"></div>
