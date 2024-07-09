@@ -35,7 +35,7 @@
 ![image.png](https://tc.899900.xyz/img/202407091405414.png)
 
 #### 五、输入读取参数
-![image.png](https://tc.899900.xyz/img/202407091409716.png)
+<div align="center"><img src="https://tc.899900.xyz/img/202407091409716.png" width="50%" height="50%"></img></div>
 
 参数：
 - 读取个数：实际个数，通常输入多少个，读多少个
@@ -53,7 +53,8 @@
 ![image.png](https://tc.899900.xyz/img/202407091425041.png)
 
 ##### 导入后，通过切换数据并查看==DistanceX==已经看到数据已经导入成功
-![PixPin_2024-07-09_14-30-59.gif](https://tc.899900.xyz/img/202407091431523.gif)
+
+<div align="center"><img src="https://tc.899900.xyz/img/202407091431523.gif" width="30%" height="50%"></img></div>
 
 ---
 
