@@ -7,6 +7,8 @@
 
 ![Rsa7uSlt_0602-04.jpg](https://tc.899900.xyz/img/202303301656475.jpg)
 
+![cj5Q6T.gif](https://tc.899900.xyz/img/202407131453490.gif)
+
 ## 关于WIN7电脑激活
 <div STYLE="page-break-after: always;"></div>
 
