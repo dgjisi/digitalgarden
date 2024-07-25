@@ -17,6 +17,7 @@
 - CCD相关下载 [[downall\|downall]]
 - WIN7激活 [[other/win7激活\|win7激活]]
 - 导入外部EXCEL数据到CCD [[other/read-execl\|read-execl]]
+- 顶联找缺口定制，跑通迅 [[Options/DL-1003\|DL-1003]]
 
 **客户説明：**
 - [[other/SZSL\|SZSL]] 深圳盛凌增加页面并将原先拍两次的页面分开显示
