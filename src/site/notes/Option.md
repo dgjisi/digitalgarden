@@ -75,3 +75,4 @@
 - 泰元达机械 旋转检测 [[Options/TYD-1000\|TYD-1000]]
 - 蓝芯盈精密机械_王立峰 [[Options/LXY-1001\|LXY-1001]]
 - 环德设备 [[Options/qt-1000\|qt-1000]]
+- 金德辉 [[Options/jdh-1001\|jdh-1001]]
