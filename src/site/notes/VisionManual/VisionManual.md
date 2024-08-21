@@ -13,6 +13,18 @@
 - [[VisionManual/程序图标\|程序图标]]
 - [[VisionManual/程序界面\|程序界面]]
 - [[VisionManual/功能介绍\|功能介绍]]
+- ROI算法
+	- 水平垂直线高级
+	- 找直线边高级
+	- 点面积
+	- [[VisionManual/找圆\|找圆]]
+- 数据算法
+	- [[VisionManual/X距离\|X距离]]
+	- [[VisionManual/Y距离\|Y距离]]
+	- 点到两点距离
+	- 点面积
+	- [[VisionManual/角度\|角度]]
+	- [[VisionManual/发送数据\|发送数据]]
 
 ---
 
