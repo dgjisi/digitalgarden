@@ -10,6 +10,7 @@
 ### 目录
 - [[VisionManual/程序图标\|程序图标]]
 - [[VisionManual/程序界面\|程序界面]]
+- [[VisionManual/功能介绍\|功能介绍]]
 
 ---
 
