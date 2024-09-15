@@ -13,13 +13,13 @@
 **影视APP**
 [下载地址： 密码:jisi](https://jisi.lanzout.com/b012v17ve)
 
-![image.png](https://tc.899900.xyz/img/202306162217551.png)
+![image.png](https://tc.jisicn.top/img/202306162217551.png)
 
 ---
 
 安装完APP后点右下角设置图标，如下图
 
-![image.png](https://tc.899900.xyz/img/202306162226998.png)
+![image.png](https://tc.jisicn.top/img/202306162226998.png)
 
 ---
 
@@ -30,12 +30,12 @@
 
 以上两个接口还不错，随便选一个就OK。
 
-![image.png](https://tc.899900.xyz/img/202306162225652.png)
+![image.png](https://tc.jisicn.top/img/202306162225652.png)
 
 
 最后，视频源切换
 
-![image.png](https://tc.899900.xyz/img/202306162231603.png)
+![image.png](https://tc.jisicn.top/img/202306162231603.png)
 
 **其它技巧：**
 - 常按海报进入源搜索
