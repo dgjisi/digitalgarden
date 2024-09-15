@@ -5,7 +5,7 @@
 
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 
-<div align="center"><img src="https://tc.899900.xyz/img/202303301656475.jpg" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202303301656475.jpg" width="100%" height="50%"></img></div>
 
 ---
 
@@ -13,13 +13,13 @@
 
 - 在参数页面信号切换选择“信捷PLC”
 
-<div align="center"><img src="https://tc.899900.xyz/img/202403181748693.png" width="50%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202403181748693.png" width="50%" height="50%"></img></div>
 
 ### 参数设定
 - 先将“切换”设为1
 - 与PLC确定IP地址及端口，IP段要一致，如（aaa.bbb.ccc.X）其中aaa.bbb.ccc与PLC同IP段，最后一个X可以随意，但是与PLC已分配的重复。
 
-<div align="center"><img src="https://tc.899900.xyz/img/202403181751496.png" width="50%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202403181751496.png" width="50%" height="50%"></img></div>
 
 ### 启动端口设定
 
@@ -31,8 +31,8 @@
 
 <div align="center">
 <figure class="half">
-<img src="https://tc.899900.xyz/img/202403181756837.png" width="40%" height="50%"> 
-<img src="https://tc.899900.xyz/img/202403181803267.png" width="40%" height="50%"> 
+<img src="https://tc.jisicn.top/img/202403181756837.png" width="40%" height="50%"> 
+<img src="https://tc.jisicn.top/img/202403181803267.png" width="40%" height="50%"> 
 </figure></div>
 
 
@@ -41,7 +41,7 @@
 - "address1"表示设定发送数据的起始端口，与上方启动端口类似，实际对应线圈的端口 = address1 + OK/NG端口设定值（相机页面）
 - “address2”表示数据中“标签”算法中写数据的地址，如我们要将数据写入到PLC的 "D100"，此时就将“address2”设为 “100”
 
-<div align="center"><img src="https://tc.899900.xyz/img/202403181806839.png" width="50%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202403181806839.png" width="50%" height="50%"></img></div>
 
 - 算法：标签
 - 数据源：200 表示通过modbus写数据
@@ -50,7 +50,7 @@
 - 参数配制1: 获取前数据，并判断正负，>=0时，最终数据=（实际数据+数据源1）x 数据源2（放大倍数）
 - 标准值2与正公差2 ：角度显示位置X Y坐标
 
-<div align="center"><img src="https://tc.899900.xyz/img/202403181812333.png" width="50%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202403181812333.png" width="50%" height="50%"></img></div>
 
 ### ROI设定
 - 定位
@@ -83,12 +83,12 @@
 
 
 <div align="center">
-    <img src="https://tc.899900.xyz/img/JS_YX_022.jpg" width="100%" height="60%"></img>
+    <img src="https://tc.jisicn.top/img/JS_YX_022.jpg" width="100%" height="60%"></img>
 </div>
 
 <div STYLE="page-break-after: always;"></div>
 
-<div align="center"><img src="https://tc.899900.xyz/img/202304122151817.JPG" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202304122151817.JPG" width="100%" height="50%"></img></div>
 
 
 ---
