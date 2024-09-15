@@ -17,9 +17,9 @@
 + 分辨率：2448 × 2048
 + 最大帧率：24.2 fps @2448 × 2048
 
-![image.png](https://tc.899900.xyz/img/20221213175601.png)
+![image.png](https://tc.jisicn.top/img/20221213175601.png)
 
 
-<div align="centrr"><img src="https://tc.899900.xyz/img/CS050-10.png" width="100%" height="100%"></img></div>
+<div align="centrr"><img src="https://tc.jisicn.top/img/CS050-10.png" width="100%" height="100%"></img></div>
 
 
