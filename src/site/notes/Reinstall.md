@@ -7,7 +7,7 @@
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 -->
 
-<div align="center"><img src="https://tc.899900.xyz/img/202303301656475.jpg" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202303301656475.jpg" width="100%" height="50%"></img></div>
 
 ---
 
@@ -21,7 +21,7 @@
 ## 二、安装流程
 重装系统--安装CCD环境--安装相关驱动--拷贝程序（之前备份的程序）
 
-![image.png](https://tc.899900.xyz/img/202403301917446.png)
+![image.png](https://tc.jisicn.top/img/202403301917446.png)
 
 ## 三、下载相关文件
 注！！！ 
@@ -49,10 +49,10 @@ https://cloud.jisicn.top/f/mGC2/AC5152%20X86%2064.zip
 ```
 
 ### 1、下载前设置，修改下载最大连接数为最大
-![image.png](https://tc.899900.xyz/img/202403301929741.png)
+![image.png](https://tc.jisicn.top/img/202403301929741.png)
 
 ### 2、添加下载地址
-![image.png](https://tc.899900.xyz/img/202403301931304.png)
+![image.png](https://tc.jisicn.top/img/202403301931304.png)
 
 ### 3、下载成功将所有的程序都安装
 - 一个环境配置
@@ -71,7 +71,7 @@ Rustdesk远程工具：[下载](https://jisi.lanzout.com/i3A5B1t5s2wd)
 
 <div STYLE="page-break-after: always;"></div>
 
-<div align="center"><img src="https://tc.899900.xyz/img/202304122151817.JPG" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202304122151817.JPG" width="100%" height="50%"></img></div>
 
 <!--
 ## 下载地址：
