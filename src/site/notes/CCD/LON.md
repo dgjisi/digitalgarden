@@ -8,7 +8,7 @@
 实现效果，CCD拍照前自动打开光源，完成则自动关闭光源。
 
 
-<div align="center"><img src="https://tc.899900.xyz/img/202311072337047.png" width="30%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202311072337047.png" width="30%" height="50%"></img></div>
 
 如上图：
 > 参数位置：右侧栏--任务--相机--"拍照完成"
@@ -23,7 +23,7 @@
 注意：
 - 光源通电后由暗到这虽是线性，但是还是建议加50-100ms左右的延时，确保光源最亮状态
 
- <div align="center"><img src="https://tc.899900.xyz/img/202311072358971.png" width="30%" height="50%"></img></div>
+ <div align="center"><img src="https://tc.jisicn.top/img/202311072358971.png" width="30%" height="50%"></img></div>
 
 - 此外，"IO发送延时"不可太短，如果出现光源亮了，但是还没正常取图就关闭了，通常就是"IO发送延时"太短，适当加长便可
 ---
