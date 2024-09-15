@@ -9,11 +9,7 @@
 
 ---
 
-**算法_四点基准**
-
----
-
-<div align="center"><img src="https://armtc.jisicn.top/i/2022/12/17/gr5f4v-1.jpg" width="70%" height="70%"></img></div>
+## 算法_四点基准
 
 ---
 
@@ -40,11 +36,11 @@
 
 关注公众号，并发送 **“CCD”** 获取
 
-<div align="center">
-    <img src="https://cloud.jisi.cf/api/v3/file/source/1124/JISI%20%E5%85%AC%E4%BC%97%E5%8F%B7.jpg?sign=vxeGqA0B2Y-Yger8pV5Rxvdh6ZeBWi4fVG1Wm98bXNo%3D%3A0" width="40%" height="40%"></img>
-</div>
+<div align="center"><img src="https://tc.jisicn.top/img/202405012133208.jpg" width="40%" height="40%"></img></div>
 
 
 ------
 
 <div align='center' ><font size='50'> End Thanks</font></div>
+<div align='center'><font size='3'><b>联系人：周生  18029199900 「dgjisi@foxmail.com」</b></font></div>
+
