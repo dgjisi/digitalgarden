@@ -7,7 +7,7 @@
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 -->
 
-<div align="center"><img src="https://tc.899900.xyz/img/202303301656475.jpg" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202303301656475.jpg" width="100%" height="50%"></img></div>
 
 ---
 
@@ -20,10 +20,10 @@
 - [Neat Download Manager](https://jisi.lanzout.com/iownH21nrfze) 推荐
 
 ### 1、下载前设置，修改下载最大连接数为最大
-![image.png](https://tc.899900.xyz/img/202403301929741.png)
+![image.png](https://tc.jisicn.top/img/202403301929741.png)
 
 ### 2、添加下载地址
-![image.png](https://tc.899900.xyz/img/202403301931304.png)
+![image.png](https://tc.jisicn.top/img/202403301931304.png)
 
 ## 三、远程连接 
  - [Rustdest](https://jisi.lanzout.com/iqeeH1u9j9va)
@@ -46,7 +46,7 @@
 
 <div STYLE="page-break-after: always;"></div>
 
-<div align="center"><img src="https://tc.899900.xyz/img/202304122151817.JPG" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202304122151817.JPG" width="100%" height="50%"></img></div>
 
 <!--
 ## 下载地址：
