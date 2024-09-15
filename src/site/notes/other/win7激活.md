@@ -5,34 +5,34 @@
 
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 
-![Rsa7uSlt_0602-04.jpg](https://tc.899900.xyz/img/202303301656475.jpg)
+![Rsa7uSlt_0602-04.jpg](https://tc.jisicn.top/img/202303301656475.jpg)
 
-![cj5Q6T.gif](https://tc.899900.xyz/img/202407131453490.gif)
+![cj5Q6T.gif](https://tc.jisicn.top/img/202407131453490.gif)
 
 ## 关于WIN7电脑激活
 <div STYLE="page-break-after: always;"></div>
 
 一、先下载[激活工具](https://jisi.lanzout.com/iJZUd23nk9ra)
 
-![image.png](https://tc.899900.xyz/img/202407061023574.png)
+![image.png](https://tc.jisicn.top/img/202407061023574.png)
 
 二、下载后解压
 
-![image.png](https://tc.899900.xyz/img/202407061024002.png)
+![image.png](https://tc.jisicn.top/img/202407061024002.png)
 <!-- 分割 --><div STYLE="page-break-after: always;"></div>
 
 三、鼠标右键激活==以管理员身份运行==
 
-![image.png](https://tc.899900.xyz/img/202407061025384.png)
+![image.png](https://tc.jisicn.top/img/202407061025384.png)
 
 四、弹出窗口选择1并按键盘回车
 
-![image.png](https://tc.899900.xyz/img/202407061027990.png)
+![image.png](https://tc.jisicn.top/img/202407061027990.png)
 
 
 <!-- 分割 --><div STYLE="page-break-after: always;"></div>
 
-<div align="center"><img src="https://tc.899900.xyz/img/202304122151817.JPG" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202304122151817.JPG" width="100%" height="50%"></img></div>
 
 ---
 
@@ -44,7 +44,7 @@
 ### **如何获取更多CCD资讯**
 关注公众号，并发送 **“CCD”** 
 
-<div align="center"><img src="https://tc.899900.xyz/img/202405012133208.jpg" width="30%" height="40%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202405012133208.jpg" width="30%" height="40%"></img></div>
 
 ---
 
