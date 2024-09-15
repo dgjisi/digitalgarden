@@ -5,7 +5,7 @@
 
 # Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 
-<div align="center"><img src="https://tc.899900.xyz/img/202303301656475.jpg" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202303301656475.jpg" width="100%" height="50%"></img></div>
 
 ---
 
@@ -18,33 +18,33 @@
 **详细见下图解：**
 
 ### 用户登录
-![image.png](https://tc.899900.xyz/img/202403141425286.png)
+![image.png](https://tc.jisicn.top/img/202403141425286.png)
 
 ### 进数据页面
-![image.png](https://tc.899900.xyz/img/202403141430237.png)
+![image.png](https://tc.jisicn.top/img/202403141430237.png)
 
 
 ### 最后点保存
-<div align="center"><img src="https://tc.899900.xyz/img/202403141429096.png" width="50%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202403141429096.png" width="50%" height="50%"></img></div>
 
 ---
 ---
 
 
 <div align="center">
-    <img src="https://tc.899900.xyz/img/JS_YX_022.jpg" width="100%" height="60%"></img>
+    <img src="https://tc.jisicn.top/img/JS_YX_022.jpg" width="100%" height="60%"></img>
 </div>
 
 <div STYLE="page-break-after: always;"></div>
 
-<div align="center"><img src="https://tc.899900.xyz/img/202304122151817.JPG" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202304122151817.JPG" width="100%" height="50%"></img></div>
 
 ---
 
 ## 如何获取更多CCD资讯
 关注公众号，并发送 **“CCD”** 
 
-<div align="center"><img src="https://tc.899900.xyz/img/202405012133208.jpg" width="30%" height="40%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202405012133208.jpg" width="30%" height="40%"></img></div>
 
 ---
 
