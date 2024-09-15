@@ -11,7 +11,7 @@
 
 
 <div align="center">
-    <img src="https://tc.899900.xyz/img/立式手工.jpg" width="50%" height="50%"></img>
+    <img src="https://tc.jisicn.top/img/立式手工.jpg" width="50%" height="50%"></img>
 </div>
 
 
@@ -29,10 +29,10 @@
 ---
 
 ### 卧式支架
-<div align="center"><img src="https://tc.899900.xyz/img/202403271432768.jpg" width="70%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202403271432768.jpg" width="70%" height="50%"></img></div>
 
 ### 立式支架
-<div align="center"><img src="https://tc.899900.xyz/img/202403271432502.jpg" width="70%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202403271432502.jpg" width="70%" height="50%"></img></div>
 
 
 ---
