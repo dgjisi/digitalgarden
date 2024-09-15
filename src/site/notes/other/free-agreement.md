@@ -5,7 +5,7 @@
 
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 
-<div align="center"><img src="https://tc.899900.xyz/img/202303301656475.jpg" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202303301656475.jpg" width="100%" height="50%"></img></div>
 
 ---
 
@@ -18,9 +18,9 @@
 
 下图为启动CCD的PLC示例，H31 H32 H33为数据，解码后为01 02 03，H75 H7A为CRC校验数据。
 
-![83efcf76b379dbe7fbea818a5e45520.jpg](https://tc.899900.xyz/img/202403201600931.jpg)
+![83efcf76b379dbe7fbea818a5e45520.jpg](https://tc.jisicn.top/img/202403201600931.jpg)
 
-![ea76421923c0ebf6b5e738972f60a5c.jpg](https://tc.899900.xyz/img/202403201603916.jpg)
+![ea76421923c0ebf6b5e738972f60a5c.jpg](https://tc.jisicn.top/img/202403201603916.jpg)
 
 ### 二、写数据
 
@@ -45,19 +45,19 @@
 	- 数据源：300发送自动协议数据(200为modbus数据)
 	- 参数配制：指定要发送的数据
 
-![6cc688b6e820933c5a387df76ec2957.jpg](https://tc.899900.xyz/img/202403201624885.jpg)
+![6cc688b6e820933c5a387df76ec2957.jpg](https://tc.jisicn.top/img/202403201624885.jpg)
 
 ---
 ---
 
 
 <div align="center">
-    <img src="https://tc.899900.xyz/img/JS_YX_022.jpg" width="100%" height="60%"></img>
+    <img src="https://tc.jisicn.top/img/JS_YX_022.jpg" width="100%" height="60%"></img>
 </div>
 
 <div STYLE="page-break-after: always;"></div>
 
-<div align="center"><img src="https://tc.899900.xyz/img/202304122151817.JPG" width="100%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202304122151817.JPG" width="100%" height="50%"></img></div>
 
 ---
 
