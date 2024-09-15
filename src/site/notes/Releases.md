@@ -5,7 +5,7 @@
 
 ### Welcome to[东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
 
-![98e92999_9133505.jpeg](https://tc.899900.xyz/img/202405031228351.jpeg)
+![98e92999_9133505.jpeg](https://tc.jisicn.top/img/202405031228351.jpeg)
 
 ---
 
@@ -35,14 +35,14 @@
 
 二、开启手机端浏览器==桌面模式==「开启后相当于让手机端模拟PC端来打开」，一般都是在浏览器--设置中找一下，如下图「不同浏览器，名称会有差异，一般都是带有桌面两个字」
 
-<div align="center"><img src="https://tc.899900.xyz/img/202406111138920.png" width="50%" height="50%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202406111138920.png" width="50%" height="50%"></img></div>
 
 ---
 
 ### 如何获取更多CCD资讯
 关注公众号，并发送 **“CCD”** 
 
-<div align="center"><img src="https://tc.899900.xyz/img/202405012133208.jpg" width="30%" height="40%"></img></div>
+<div align="center"><img src="https://tc.jisicn.top/img/202405012133208.jpg" width="30%" height="40%"></img></div>
 
 ---
 
