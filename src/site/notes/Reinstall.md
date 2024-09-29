@@ -3,9 +3,7 @@
 ---
 
 
-<!--
 ## Welcome to [东莞市集思光电科技有限公司 ](https://jisicn.top) ! 
--->
 
 <div align="center"><img src="https://tc.jisicn.top/img/202303301656475.jpg" width="100%" height="50%"></img></div>
 
