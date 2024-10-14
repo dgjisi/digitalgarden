@@ -18,6 +18,7 @@
 	- 找直线边高级
 	- 点面积
 	- [[VisionManual/找圆\|找圆]]
+	- [[VisionManual/中心直线\|中心直线]]
 - 数据算法
 	- [[VisionManual/X距离\|X距离]]
 	- [[VisionManual/Y距离\|Y距离]]
