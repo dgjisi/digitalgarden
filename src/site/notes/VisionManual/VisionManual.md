@@ -16,7 +16,7 @@
 - ROI算法
 	- 水平垂直线高级
 	- 找直线边高级
-	- 点面积
+	- [[VisionManual/点面积\|点面积]]
 	- [[VisionManual/找圆\|找圆]]
 	- [[VisionManual/中心直线\|中心直线]]
 - 数据算法
