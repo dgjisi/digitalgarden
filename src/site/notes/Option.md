@@ -59,6 +59,7 @@
 - 正德TYPEC+USB [[Options/ZD-1004\|ZD-1004]]
 - 正德TYPEC+USB [[Options/ZD-1005\|ZD-1005]]
 - 正德TYPEC+USB [[Options/ZD-1006\|ZD-1006]]
+- 正德 [[Options/ZD-1007\|ZD-1007]]
 
 ---
 **顶联**
